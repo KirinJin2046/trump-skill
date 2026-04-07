@@ -1,4 +1,4 @@
-# Trump · Digital Twin
+# Trump.SKILL
 
 我们造了一个 **Trump 的数字分身**。
 
