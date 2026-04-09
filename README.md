@@ -3,6 +3,8 @@
 # 特朗普.SKILL
 
 > *「TACO告诉你他大概率会怂。我告诉你他为什么会怂，什么条件下不会怂。」*
+trump.kirinjin.com
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
